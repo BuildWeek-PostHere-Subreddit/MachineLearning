@@ -1,0 +1,8 @@
+'''
+
+1) Trying to predict what subreddit will give the most responses
+   or largest reach
+2) make a smaller dataset with only around 100 subreddits and then train
+   a few models to she what preforms the best.
+
+'''
