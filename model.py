@@ -1,7 +1,7 @@
 import pandas as pd
 import praw
 ​
-redd = praw.Reddit(client_id='632ZdOOH5hzFAA', client_secret='jwVjywvA6SeVMI_C5n6hVDr5iMI', username='matthewlsessions', password='', user_agent='testagent')
+redd = praw.Reddit(client_id='xx', client_secret='xx', username='xx', password='', user_agent='xx')
 ​
 df = pd.read_csv('subreddit_namesn.csv')
 ​
