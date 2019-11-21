@@ -117,8 +117,8 @@ We explored dozens of different models and techniques that would allow us to mai
 
 ## Authors
 
-#### - Matthew Sessions - Data Scientist
-#### - Johana Luna - Data Scientist
+#### - [Matthew Sessions](https://www.linkedin.com/in/matthew-sessions/) - Machine Learning Engineer
+#### - [Johana Luna](https://www.linkedin.com/in/johanaluna/) - Machine Learning Engineer
 
 ## License
 #### This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE.md file for details
