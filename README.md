@@ -13,7 +13,7 @@ Once our application has the relevant Subreddit ID’s, it queries more subreddi
 ## Collecting Subreddit Data:
 
 ### Gathering subreddit names
-We found a site the keeps track of the 5000 top subreddits so we scraped all the subreddit names and saved them in a CSV file.
+We found a [site the keeps track of the 5000 top subreddits](http://redditlist.com/sfw) so we scraped all the subreddit names and saved them in a CSV file.
 
 ~~~
 from bs4 import BeautifulSoup as bs
