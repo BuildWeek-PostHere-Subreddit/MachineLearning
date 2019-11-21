@@ -87,6 +87,10 @@ for i in names:
 ~~~
 
 
+## Model Exploration:
+
+We explored dozens of different models and techniques that would allow us to maintain a relatively small model while producing good results. We had to cut back on the size of our training data due to hosting limitations so we decided to use a Tfidf Vectorizer to transform our data and then compare the Cosine Similarities. 
+
 ### Handling the Data:
 ![alt text](https://github.com/BuildWeek-PostHere-Subreddit/MachineLearning/blob/master/Pics/handledata.png "handle data")
 
