@@ -86,6 +86,31 @@ for i in names:
     df.to_csv('all_data2.csv')
 ~~~
 
+
+### Handling the Data:
+![alt text](https://github.com/BuildWeek-PostHere-Subreddit/MachineLearning/blob/master/Pics/handledata.png "handle data")
+
+### Fitting the Model:
+![alt text](https://github.com/BuildWeek-PostHere-Subreddit/MachineLearning/blob/master/Pics/fitting.png "fitting")
+
+### Transforming the Training Data:
+![alt text](https://github.com/BuildWeek-PostHere-Subreddit/MachineLearning/blob/master/Pics/transformtrain.png "transform training")
+
+### Vectorizing the Data:
+![alt text](https://github.com/BuildWeek-PostHere-Subreddit/MachineLearning/blob/master/Pics/vectorizetrain.png "vectorize train")
+
+### Transforming Test Data:
+![alt text](https://github.com/BuildWeek-PostHere-Subreddit/MachineLearning/blob/master/Pics/transtest.png "transform test")
+
+### Computing the Cosines:
+![alt text](https://github.com/BuildWeek-PostHere-Subreddit/MachineLearning/blob/master/Pics/cosines.png "compute cosines")
+
+### Checking the Results:
+![alt text](https://github.com/BuildWeek-PostHere-Subreddit/MachineLearning/blob/master/Pics/checkingres.png "checking results")
+
+### Export the Model:
+![alt text](https://github.com/BuildWeek-PostHere-Subreddit/MachineLearning/blob/master/Pics/export.png "export model")
+
 ## Authors
 
 #### - Matthew Sessions - Data Scientist
