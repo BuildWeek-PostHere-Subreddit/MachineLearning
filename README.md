@@ -8,7 +8,7 @@ Our team of full-stack web developers created an application on React that inter
 
 Once our application has the relevant Subreddit ID’s, it queries more subreddit information from our NoSQL Database and returns the Subreddit name, link, title, description, number of subscribers, active subscribers, and the subreddit score to the React app.
 
-![alt text](https://github.com/BuildWeek-PostHere-Subreddit/MachineLearning/blob/master/Pics/api_logic.png "Architecture")
+![alt text](https://github.com/BuildWeek-PostHere-Subreddit/MachineLearning/blob/master/Pics/api_logicr.png "Architecture")
 
 ## Collecting Subreddit Data:
 
